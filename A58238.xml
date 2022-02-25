@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for encouraging the Bank of England I. In respect of justice and common right, II. Of its usefulness and the publick good.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58238</idno>
+            <idno type="STC">Wing R490</idno>
+            <idno type="STC">ESTC R6056</idno>
+            <idno type="EEBO-CITATION">12798476</idno>
+            <idno type="OCLC">ocm 12798476</idno>
+            <idno type="VID">94023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for encouraging the Bank of England I. In respect of justice and common right, II. Of its usefulness and the publick good.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94023:1" rendition="simple:additions"/>
+            <head>
+               <hi>REASONS</hi> for Encouraging the Bank of <hi>England; I.</hi> In reſpect of Juſtice and Common Right. <hi>II.</hi> Of its <g ref="char:V">Ʋ</g>ſefulneſs and the Publick Good.</head>
+            <head type="sub">Firſt, <hi>As to Juſtice and Common Right, Theſe Things may be conſidered:</hi>
+            </head>
+            <list>
+               <item>I. IN <hi>Anno</hi> 1694 after all Ways had been tried to raiſe Money, and more was ſtill wanting, the Parliament did not think fit to Tax the People farther; but found out a Way to perſwade them to Tax Themſelves of their own accord, by encouraging ſuch who would advance 1200000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> to receive the Recompences and Advantages propoſed in the Act for Erecting the Bank: Which were framed on purpoſe to convince every Man, it was his rivate Intereſt to ſerve the Publick. And the advancing the Money was a voluntary Act, for the ſake of the Advantages offered; which were propoſed for no other End, but to encourage the advancing the Money, upon the Credit and Reputation of that Act; which therefore ought not now to be ſhaken.</item>
+               <item>II. The Encouragement did not only conſiſt in the Profit of the Advantages propoſed, but in the Certainty and Aſſurance the People depended on to enjoy them for the term of Eleven Years; being granted by the higheſt Sanction the Government can make, and ſuch as might be relied on ſecurely, That the ſaid Term ſhould not be ſhortned, nor the Conditions altered or changed, much leſs weakened and made worſe: Which as it was the main Encouragement to the bringing in the Money; ſo the leaſt Diſappointment of the People's juſt Expectation, to enjoy the promiſed Advantages fully and ſolely, for the ſaid Eleven Years, will leſſen the Publick Credit, and diſcourage Loans to the Government hereafter.— And therefore 'tis to be hoped, That ſince the <hi>Power</hi> and <hi>Wiſdom</hi> of the Nation has made ſuch a Conſtitution, the <hi>Honour</hi> and <hi>Juſtice</hi> of the Nation will maintain it.</item>
+               <item>III. Beſides the Parliamentary Authority, which the Subſcribers relied on, the King, by his Commiſſion, did declare his Royal Intentions, and gave his Gracious Aſſurances of promoting the Deſign of the ſaid Act, and putting the ſame in execution, that the Corporation might be ſettled <hi>To its own Content,</hi> as the Words of his Commiſſion are.</item>
+               <item>IV. And his Majeſty, the more powerfully to induce a free and liberal Contribution, annexed to his Commiſſion the Draught of the Charter he intended; that all his Subjects, before they parted with their Money, might
+<pb n="2" facs="tcp:94023:2"/>know, what the Recompences were, which they were to expect: And the ſaid Draught was Printed, and Copies diſperſed, that every Man might have a true Proſpect of the Advantages he was to enjoy; which were theſe, <hi>viz.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>First,</hi> That this Bank ſhould be the only Bank in <hi>England;</hi> which is not only plainly imported by its very Name, but alſo by the Reaſon and Juſtice of the Thing it ſelf: For though there be no Words of Excluſion in the Charter; yet it could not be apprehended that the ſame Priviledges ſhould be granted to any other ſuch Corporation: Becauſe ſuch a Grant muſt of neceſſity deſtroy the very Deſign of the Act for Erecting the Bank; it being a known Rule in Law, That an Act of Parliament introductive of a New Law, implies a <hi>Negative.</hi> So that the Bank of <hi>England,</hi> in point of Law, hath the ſame Security againſt Erecting any other Bank, as if it had been ſo provided for in the very Act. And can any Man think (in caſe either the King or Parliament had told the Subſcribers, That they ſhould be made a Bank, to continue for Eleven Years; but yet that in a Year or two's time, other Banks ſhould be erected by the like Authority) that any Perſon would have ventured to ſub<g ref="char:EOLhyphen"/>ſcribe one Penny? And indeed, thoſe Things which the Act declared ſhould be Recompences and Advantages, would ceaſe from being ſo, when other Banks were erected by like Authority; and the certain Recompences and Ad<g ref="char:EOLhyphen"/>vantages, by the Act intended, would at this rate become certain Diſadvantages to the Subſcribers. — Beſides, common Experience confirms us, That the Crown never grants the ſame Things twice: For when a Charter grants certain Priviledges to one Society, 'twas never known that another Charter granted the ſame to any others. — Moreover, the Practice of other Nations did convince the Subſcribers, that they were to be the ſole Bank of <hi>England;</hi> there being no known Government in the World, that ever erected Two Banks by Publick Authority. Which may be ſuppoſed to be grounded on Reaſons of State: For if Two or more Banks be eſtabliſhed, the Credit will be divided, and become leſs uſeful to any Nation. And though both of them ſhould be equally willing to ſerve the Government, <hi>yet each would render the other unable to do it,</hi> by the Induſtry and Endeavours the one would uſe to ſupplant and under<g ref="char:EOLhyphen"/>mine the other; in regard their ſeveral Intereſts being either different from, or oppoſite to each other, would naturally engage them both in perpetual Con<g ref="char:EOLhyphen"/>tradictions and Diſputes.</p>
+            <p>
+               <hi>Secondly,</hi> The ſecond Recompence was, That the Subſcribers ſhould be incorporated by a Charter, with the uſual Powers granted to other Corpora<g ref="char:EOLhyphen"/>tions, as well as thoſe particularly directed by the Act: Which when granted to others, are in a great meaſure taken away from the preſent Bank.</p>
+            <p>
+               <hi>Thirdly,</hi> That each Member ſhould have an Intereſt in the Capital Stock of 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in proportion to his Subſcription.</p>
+            <p>
+               <hi>Fourthly,</hi> And alſo in the yearly Fund of 100000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> And Liberty to Deal and Trade in Borrowing and Lending Money, in Bills of Exchange and Bullion, and in Selling Goods, the Product of their Lands. Which Liberty will be much impaired, when the ſame is granted to other.</p>
+            <p>
+               <hi>Laſtly,</hi> If the time be conſidered when this Money was advanced, <hi>viz.</hi> in 1694. it muſt appear the Subſcribers could not be ſuppoſed to have advanced
+<pb n="3" facs="tcp:94023:2" rendition="simple:additions"/>their Money ſo cheerfully, on the bare Encouragement of the 8 <hi>per Cent.</hi> in regard at that time they could have made more of their Money, by 14 to 20 <hi>per Cent.</hi> (over and above the 8 <hi>per Cent.</hi>) in Lending it upon other Funds, (which the Goldſmiths and Tallymongers well know to be true.) And there<g ref="char:EOLhyphen"/>fore the 8 <hi>per Cent.</hi> was but a part of the Encouragement to the Contributers, who had an eye to the other Advantages propoſed by the Act, and the term of their duration, and the other Conſequences of the ſame, without which they had never writ. And therefore ſeeing they have writ, and paid their Money, in full aſſurance of thoſe Advantages; it cannot ſeem Juſtice or Equity to deprive them of any one of them, or to ſhorten the term granted for their enjoying them; eſpecially conſidering the hazard they did run, in caſe 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> had not been ſubſcribed: For then they muſt, for Eleven Years, have been confined to the 8 <hi>per Cent.</hi> without a Charter, and other the Advantages con<g ref="char:EOLhyphen"/>ſequential thereupon. Which would have been ſuch a Bargain at that time, that none would have taken off their hands for 20 <hi>per Cent.</hi> of their Principal.</p>
+            <p>Therefore ſeeing theſe were the Advantages propoſed to the People, and the Aſſurances given by the Government for their enjoying the ſame for the certain term of Eleven Years; in Confidence whereof, the whole 1200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> was writ, and 300000 <abbr>
+                  <hi>l.</hi>
+               </abbr> of it paid in Ten Days time; there can be no reaſon the Subſcribers ſhould be deprived of any of the Advantages offered; and may expect that nothing ſhould be done, within the ſpace of thoſe Eleven Years, to weaken their Security; ſince it muſt be granted, If <hi>once PARLIAMEN<g ref="char:EOLhyphen"/>TARY Securities are made ſo Doubtful,</hi> it will LESSEN the Credit of the Government for the future.</p>
+            <div type="part">
+               <head>As to the Uſefulneſs of the Bank of <hi>England,</hi> it appears by theſe Conſiderations:</head>
+               <list>
+                  <item>
+                     <hi>Firſt,</hi> That it ſerves the Occaſions of the Publick.</item>
+                  <item>
+                     <hi>Secondly,</hi> And the Neceſſities of Private Perſons.</item>
+               </list>
+               <p n="1">I. The Publick has for 18 Months paſt, experienced the Uſefulneſs of it, in theſe Inſtances, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. The 1200000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> raiſed by the Bank, was paid into the Exchequer, with much leſs charge to the King, than either the Million-Lottery, or any other Fund.</item>
+                  <item>2. The Cheerful ſpeed in raiſing it, ſhews the good Inclinations the Sub<g ref="char:EOLhyphen"/>ſcribers had to the Government in time of need, and the Confidence they had which ought not to be fruſtrated) in enjoying the Advantages promiſed them for Eleven Years certain.</item>
+                  <item>3. The Bank has been the ſole cauſe of lowering the Intereſt of Money; which is the only Fund that ever lower'd it, and that too, in time of War, when uſually Intereſt riſes; by which the Nation, ſince the Bank was erected, hath ſaved a great Sum of Money, having been ſupplied at much cheaper Rates than formerly.— Which lowering of Intereſt, doth moreover,
+<list>
+                        <item>1. Excite Induſtry:</item>
+                        <item>2. Raiſe the Value of Land; and,</item>
+                        <item>3. Increaſe Trade.</item>
+                     </list>
+                  </item>
+                  <item>4. It hath alſo, in 12 Months paſt, greatly advanced the Reputation of
+<pb n="4" facs="tcp:94023:3"/>Tallies, which are now become (inſtead of 30 <hi>per Cent.</hi> loſs on them) to be as deſirable as Money it ſelf; and therefore inſtead of giving Money to change them, Money has been given to procure them.</item>
+                  <item>5. The Bank hath and will render all the other Publick Funds more ſpeedily Uſeful to the Crown than ever, by bringing Money into the Exchequer ſooner than otherwiſe it would come in, for ſupplying the preſent Exigencies.</item>
+                  <item>6. The Bank hath delivered the Government out of the hands of thoſe griping Lenders; whoſe Extortions upon the Publick Neceſſities, have exceed<g ref="char:EOLhyphen"/>ingly enrich'd themſelves.</item>
+               </list>
+               <p n="2">II. The Private Neceſſities of ſingle Perſons, have been alſo eaſily and cheaply ſupplied in theſe Inſtances, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. In lending Money on Mortgages at 5 <hi>per Cent.</hi> without any Procuration or Continuation.</item>
+                  <item>2. In diſcounting foreign and in land Bills of Exchange, ſome at 3 <hi>per Cent.</hi> and others at 4½ <hi>per Cent.</hi>
+                  </item>
+                  <item>3. In Lending Money on Pawns at 5 <hi>per Cent.</hi> whereas ſome in their Neceſ<g ref="char:EOLhyphen"/>ſities have heretofore paid above 100 <hi>per Cent.</hi> for Money lent them on Pawns.</item>
+                  <item>4. In lending Money on the Orphans Fund at 5 <hi>per Cent.</hi> which has relieved divers Orphans; who otherwiſe muſt have been forced to ſell their Intereſt at under-Rates, to anſwer their Neceſſities.</item>
+                  <item>5. In lending Money at 5 <hi>per Cent.</hi> on the Benefitted and Blank Million Lottery-Tickets; whereby the Neceſſities of Many have been relieved, and the Credit of the Publick Funds preſerved.</item>
+               </list>
+               <p>The Bank hath not directly nor indirectly Traded in any ſort whatſoever, nor is any part of the Stock now in Trade nor ever was, except in Bills of Exchange for Payment of our Armies and Fleet abroad; whereby there hath been ſaved to the King at leaſt 130000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ſince <hi>May,</hi> 1695. And the Armies and Fleet have been more ſpeedily and punctually paid than ever they were before: Nor hath it at any time directly or indirectly Ingroſſed any kind of Goods.</p>
+               <p>It hath nothing in it of the Nature nor of the Effect of a Monopoly; for it excludes none from any Trade. It doth not Ingroſs all the Money, nor in truth any; being only a Great and a Secure Cheſt, whereinto the Subjects put their Money, and take it out at pleaſure.</p>
+               <p>It hath never imported directly or indirectly, any <hi>Guineas</hi> or <hi>Gold</hi> from <hi>Holland,</hi> &amp;c. Which if it had done (as by Law it might,) many Thouſands of Pounds had been gained thereby. But on the contrary, at one time Pay<g ref="char:EOLhyphen"/>ing out One Hundred Thouſand <hi>Guineas</hi> at 24 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> When at the ſame time, the Price Currant in Town, was 25 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> and 26 <abbr>
+                     <hi>s.</hi>
+                  </abbr> and ever ſince nei<g ref="char:EOLhyphen"/>ther Paying, nor Receiving any; and by other ways it hath endeavoured all it could to prevent the Riſe of <hi>Guineas. Vide</hi> Mr. <hi>Godfry's</hi> Account.</p>
+               <p>It did never ſend any <hi>Guineas</hi> into the Countries, nor to any Place whatſo<g ref="char:EOLhyphen"/>ever, to Exchange for Silver Money or Clipp'd Money, nor to purchaſe any Directly or Indirectly.</p>
+               <p>It hath Lent above 40000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> on Land, and did never refuſe to Lend Money upon any Mortgage, that ought to be deem'd a ſufficient and proper Security.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94023:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
